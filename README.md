@@ -9,3 +9,5 @@ python -m SimpleHTTPServer 8000
 ```
 
 Go to `localhost:8000`, and you'll be able to see the running app.
+
+<sub> Written for https://www.sitepoint.com/getting-started-with-pouchdb/ <sub>
